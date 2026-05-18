@@ -1,21 +1,9 @@
-### Hi there 👋
+# Hi, I'm Solmaz 👋
 
-- 🔭 I’m currently working on Unsupervised Domain Adaptation problem for synthetic to real image translation
-- 🌱 I’m currently learning AWS and cloud computing
-- 📫 How to reach me: solmaz.arezoomandan@gmail.com
+I'm a PhD researcher in Computer Vision and Generative AI at Drexel University, working on robust object detection, synthetic data generation, domain adaptation, and multimodal perception.
 
-[![My Skills](https://skillicons.dev/icons?i=matlab,py,pytorch,sqlite,tensorflow,flask,git,css,html,latex)](https://skillicons.dev)
-<!--
-**Soltechie/Soltechie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+- Robust object detection in adverse weather
+- Synthetic data generation for perception
+- Diffusion models and generative AI
+- Open-world object detection
