@@ -6,5 +6,4 @@ I'm a PhD researcher in Computer Vision and Generative AI at Drexel University, 
 - Synthetic data generation for perception
 - Diffusion models and generative AI
 - Domain adaptation
-- Open-world object detection
-- Robust object detection in adverse weather
+- Open-ended object detection
